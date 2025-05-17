@@ -1,0 +1,22 @@
+Objetivo: Criar um software que ensina o básico
+do teclado com alfabetização básica.
+
+Foco: todas as pessoas que querem apreender a usar
+um teclado.
+
+Escrita do Software: HTML, Java Script e CSS.
+
+O que precisa: três fases, e um contador de acerto e erro. 
+primeira fase: 
+só encontrar a tecla que aparece na tela no teclado.
+ 
+segunda fase: 
+palavras completas de animais objetos etc...
+ 
+terceira fase:
+Frases completas no teclado.
+
+Se até dia 22 eu não tiver o software, eu escrevo sobre o software que eu
+já tenho.
+
+
